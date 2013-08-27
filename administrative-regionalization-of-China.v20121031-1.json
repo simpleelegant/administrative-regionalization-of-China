@@ -6,7 +6,7 @@
         "license": "Public domain",
         "sources": "中华人民共和国国家统计局:行政区划代码 http://www.stats.gov.cn/tjbz/xzqhdm/index.htm",
         "description": "版本号说明：版本号中日期等于采用的数据的截止日期。例如v20121031-1根据【最新县及县以上行政区划代码（截止2012年10月31日）】制作，-1表示修订版。数据结构说明：数据的最后一级用数组形式，在必要的地方使用了空数组。",
-        "website": ""
+        "website": "https://github.com/simpleelegant/administrative-regionalization-of-China"
     },
     "data": {
         "北京市": [
